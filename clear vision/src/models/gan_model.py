@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 23 22:25:20 2025
-@author: bharath kumar
+author: bharath kumar
 """
 import torch
 import torch.nn as nn
