@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class ImageRestorationDataset(Dataset):
-    """Dataset for image restoration with paired corrupted and clean images"""
+    """Dataset for image restoration with paired,corrupted and clean images"""
     
     def __init__(self, pairs_file, transform=None, target_transform=None):
         """
