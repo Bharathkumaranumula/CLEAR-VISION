@@ -2,7 +2,7 @@
 """
 Created on Sun May 25 23:35:42 2025
 
-@author: bipan
+author: amit kumar
 """
 
 import streamlit as st
