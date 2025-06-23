@@ -1,5 +1,5 @@
 # config/config.yaml
-# Project Configuration
+# PROJECT Configuration
 project:
   name: "clear-vision"
   version: "1.0.0"
