@@ -1,6 +1,6 @@
 # Image Restoration using Generative Adversarial Networks (GAN)
 ## Team
-Amit Kumar
+Amit Kumar &
 Anumula Bharath Kumar
 ## Problem Statement
 
