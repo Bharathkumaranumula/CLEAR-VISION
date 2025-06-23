@@ -16,7 +16,7 @@ This project implements an image restoration system using GANs to restore corrup
 
 - **Size**: 210 images
 - **Source**: Generated using Selenium-based web scraper
-- **Download**: [Dataset Google Drive Link](https://drive.google.com/drive/folders/1SCC8B1wJoEqwe0sa9dULJ9HZdEj23KHg?usp=sharing)
+- **Download**: [Dataset Google Drive Link](https://drive.google.com/drive/folders/1h9qeLGg7SF9bnPXY7nhmu9XLYIll_toG?usp=sharing)
 - **Corruption Types**:
   - **Blur**: Gaussian and motion blur effects
   - **Noise**: Salt-and-pepper, Gaussian noise
